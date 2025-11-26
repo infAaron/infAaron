@@ -1,12 +1,10 @@
 # ¡Hola! Soy Aarón 👋
-Soy estudiante de **FP Superior DAM** y me gusta la programación orientada a objetos.
+Soy estudiante de **FP Superior DAM** y me gusta la programación.
 ## Tecnologías
 - Java
 - Python
 - HTML, CSS y JavaScript
-## Actualmente estoy aprendiendo
 - Git y GitHub
-- Desarrollo web moderno
 - SQL y bases de datos
 ## Contacto
 [📲](📲)
