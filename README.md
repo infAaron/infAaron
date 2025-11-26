@@ -9,8 +9,7 @@ Soy estudiante de **FP Superior DAM** y me gusta la programación orientada a ob
 - Desarrollo web moderno
 - SQL y bases de datos
 ## Contacto
-[LinkedIn]()
-
+[📲](📲)
 
 <!--
 **infAaron/infAaron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
