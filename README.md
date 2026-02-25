@@ -24,14 +24,12 @@ Soy un perfil técnico con alta capacidad de adaptación, enfocado en la creaci�
 
 ---
 
-### 🧭 Objetivos y Perfiles de Interés
+### 🧭 Objetivos y Especialización (Full Stack Ligero)
+Mi formación y proyectos se dirigen hacia tecnologías que permiten agilidad y estabilidad en el mercado laboral:
 
-Siguiendo mi hoja de ruta hacia la especialización en entornos de teletrabajo y alta demanda:
-
-*Frontend Developer (Principal):** Creación de interfaces dinámicas y mejora de UX con **React**
-*Full Stack Web (Ligero):** Desarrollo de aplicaciones completas utilizando **React + Laravel/PHP**
-*E-commerce & CMS:** Especialización en **WordPress profesional** y mantenimiento de tiendas online
-
+* **Frontend Junior:** Desarrollo de interfaces dinámicas y animaciones con **JavaScript** y **React**.
+* **Full Stack Web:** Creación de aplicaciones completas con **PHP** y **Laravel**.
+* **CMS & E-commerce:** Especialización en **WordPress** profesional y gestión de tiendas online con **WooCommerce**.
 ---
 
 ### 🖥️ Herramientas de Productividad
@@ -45,6 +43,3 @@ Siguiendo mi hoja de ruta hacia la especialización en entornos de teletrabajo y
 * **LinkedIn:** [-]
 * **Email:** [-]
 
----
-
-![Estadísticas de Aarón](https://github-readme-stats.vercel.app/api?username=infaaron&show_icons=true&theme=dark&hide_border=true)
